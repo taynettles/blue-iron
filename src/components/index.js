@@ -19,12 +19,6 @@ import Layout from './Layout';
 export {
     Action,
     Announcement,
-    BlogFeedItemFilter,
-    BlogFeedSection,
-    BlogPostAuthor,
-    BlogPostCategories,
-    BlogPostFeedItem,
-    BlogPostTags,
     CtaSection,
     Feature,
     FeaturesSection,
