@@ -45,12 +45,6 @@ export {
 export default {
     Action,
     Announcement,
-    BlogFeedItemFilter,
-    BlogFeedSection,
-    BlogPostAuthor,
-    BlogPostCategories,
-    BlogPostFeedItem,
-    BlogPostTags,
     CtaSection,
     Feature,
     FeaturesSection,
