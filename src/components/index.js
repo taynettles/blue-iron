@@ -1,5 +1,11 @@
 import Action from './Action';
 import Announcement from './Announcement';
+import BlogFeedItemFilter from './BlogFeedItemFilter';
+import BlogFeedSection from './BlogFeedSection';
+import BlogPostAuthor from './BlogPostAuthor';
+import BlogPostCategories from './BlogPostCategories';
+import BlogPostFeedItem from './BlogPostFeedItem';
+import BlogPostTags from './BlogPostTags';
 import CtaSection from './CtaSection';
 import Feature from './Feature';
 import FeaturesSection from './FeaturesSection';
@@ -19,6 +25,12 @@ import Layout from './Layout';
 export {
     Action,
     Announcement,
+    BlogFeedItemFilter,
+    BlogFeedSection,
+    BlogPostAuthor,
+    BlogPostCategories,
+    BlogPostFeedItem,
+    BlogPostTags,
     CtaSection,
     Feature,
     FeaturesSection,
@@ -39,6 +51,12 @@ export {
 export default {
     Action,
     Announcement,
+    BlogFeedItemFilter,
+    BlogFeedSection,
+    BlogPostAuthor,
+    BlogPostCategories,
+    BlogPostFeedItem,
+    BlogPostTags,
     CtaSection,
     Feature,
     FeaturesSection,
